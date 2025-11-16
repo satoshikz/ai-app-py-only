@@ -1,0 +1,20 @@
+{
+    "[python]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit",
+            "editor.semanticHighlighting.enabled": "explicit"
+        },
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "black-formatter.args": [
+        "--skip-string-normalization",
+        "--line-length=108"
+    ],
+    "flake8.args": [
+        "--ignore=E203",
+        "--max-line-length=108"
+    ]
+}
