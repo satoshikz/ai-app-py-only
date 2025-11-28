@@ -210,3 +210,4 @@ data/
 .chroma_db/
 .deepeval/
 .claude/
+.DS_Store
