@@ -11,6 +11,7 @@ PythonでAIアプリを作るテンプレート
 - **Streamlit** - WebUIフレームワーク
 - **ChromaDB** - ベクトルデータベース
 - **DeepEval** - LLM評価フレームワーク
+- **Codex CLI** - コーディングエージェント
 
 ## セットアップ
 
